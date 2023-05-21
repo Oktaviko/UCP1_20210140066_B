@@ -1,0 +1,62 @@
+html{
+    background-color: whitesmoke;
+    position: absolute;
+}
+
+body{
+    border: solid;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 20px;
+    background-color: rgb(241, 206, 163);
+}
+
+h1.tittle{
+    border: solid;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.gtav{
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+
+p{
+    text-align: justify;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+}
+
+p.border-deskripsi{
+    border-style: solid;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: rgb(255, 255, 255);
+}
+
+.buttonstyle{
+    display: block;
+    margin:auto;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.button-container{
+    padding-bottom: 10px;
+}
+
+#clock{
+    font-family: 'Orbitron' ,sans-serif;
+    color: black;
+    font-size: 20px;
+    text-align: end;
+}

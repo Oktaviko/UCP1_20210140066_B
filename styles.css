@@ -1,0 +1,30 @@
+.tittle-container{
+    text-align: center;
+    color: red;
+}
+
+.container-style button{
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.container-style h1{
+    padding-bottom: 50px;
+}
+
+.container-style p{
+    text-indent: 70px;
+    text-align: justify;
+}
+
+body{
+    background-image: url(Nissan\ GTR\ Turbo\ Wallpaper\ 4K\ HD\ Lockscreen.jpeg);
+    background-size: cover;
+}
+
+.container-bg{
+    opacity: 80px;
+}

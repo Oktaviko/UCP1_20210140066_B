@@ -1,0 +1,62 @@
+body{
+    background-color: greenyellow;
+    background-repeat: no-repeat;
+}
+#judul{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    margin: 0;
+    font-size: 20pt;
+    background-color: greenyellow;
+}
+table{
+    display: inline-block;
+}
+#jdl{
+    color: black;
+    text-align: center;
+}
+#member{
+    width: 100px;
+    display: inline-block;
+}
+#mnama{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+#mposisi{
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+#mnomor{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+#mkelahiran{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+.left-div{
+    width: 100px;
+    display: inline-block;
+}
+.right-div{
+    display: inline-block;
+}

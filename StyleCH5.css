@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/b1/83/5c/b1835c6acdc8a7919136e1847abaceac.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-family: 'Great Vibes',cursive;
+}
+h2{
+    font-family: 'Lobster Two', cursive;
+    letter-spacing: 1px;
+        text-transform: uppercase;
+        text-align: center;
+        border: 2px solid blueviolet;
+        background: pink;
+        color: cyan;
+        box-shadow: 1px 1px 2px cornflowerblue;
+        border-radius: 10px;
+        padding: 3px 10px;
+        cursor: pointer;
+}
